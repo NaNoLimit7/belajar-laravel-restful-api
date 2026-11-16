@@ -32,7 +32,7 @@
                                         "type": "string"
                                     },
                                     "phone": {
-                                        "type": "number"
+                                        "type": "string"
                                     }
                                 }
                             }
@@ -63,7 +63,7 @@
                                                     "type": "string"
                                                 },
                                                 "phone": {
-                                                    "type": "number"
+                                                    "type": "string"
                                                 }
                                             }
                                         },
@@ -180,7 +180,7 @@
                                         "type": "string"
                                     },
                                     "phone": {
-                                        "type": "number"
+                                        "type": "string"
                                     }
                                 }
                             }
@@ -211,7 +211,7 @@
                                                     "type": "string"
                                                 },
                                                 "phone": {
-                                                    "type": "number"
+                                                    "type": "string"
                                                 }
                                             }
                                         },
@@ -261,7 +261,7 @@
                                                     "type": "string"
                                                 },
                                                 "phone": {
-                                                    "type": "number"
+                                                    "type": "string"
                                                 }
                                             }
                                         },
